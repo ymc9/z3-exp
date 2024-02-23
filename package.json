@@ -1,0 +1,20 @@
+{
+    "name": "z3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "tsx main"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tsx": "^4.7.1",
+        "typescript": "^5.3.3",
+        "z3-solver": "^4.12.5"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.20"
+    }
+}
