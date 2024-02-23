@@ -12,9 +12,6 @@ async function main() {
 
     await arrays();
     console.log();
-
-    await nullValue();
-    console.log();
 }
 
 async function simpleFields() {
